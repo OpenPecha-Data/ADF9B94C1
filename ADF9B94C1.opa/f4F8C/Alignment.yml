@@ -1,0 +1,28 @@
+segment_sources:
+  I87CA76A1:
+    type: origin_type
+    relation: translation
+    language: en
+  I44ACBA16:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3ea12f8d2e894fee8cffcdba3323ada9:
+    I87CA76A1: 9dad7dd50dd54bc9bcaac4dbf62a175c
+    I44ACBA16: c2ebde74d9d240c6935f217528094d19
+  7bef0319191b40d7bf87d6fe77988d0d:
+    I87CA76A1: a9853b0e864c4ed183c70b2d71254dcf
+    I44ACBA16: b3544f9a7ad845efac1c11858aab5498
+  bbd9e4c3ccfd42e798fac97ea1f56d4b:
+    I87CA76A1: f01a9819345c4670883954e486918d71
+    I44ACBA16: f40093eeb271472b8db2b80a3e282d17
+  c91a3424bebc4755acde70735490175b:
+    I87CA76A1: 234a7b7be66443cc8407100a84eaaa27
+    I44ACBA16: 3ebe7c3fab154c338fce56e7ccab01e0
+  1856325e3c26409ea0fa1634a7c6d431:
+    I87CA76A1: ec9d91f1230542deb2ba0fc037126abf
+    I44ACBA16: bc51d843ea0f4fec878c7fab3dca5a65
+  ca8a50c4c0604fe193cb0119d96fc224:
+    I87CA76A1: 45f1407465954bcc9f09c32c8c9b361c
+    I44ACBA16: ce0f98f3388246c4babfbb85ad05e673

@@ -1,0 +1,19 @@
+segment_sources:
+  I87CA76A1:
+    type: origin_type
+    relation: translation
+    language: en
+  I44ACBA16:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b91ca2c8c05e46caa210657befbe5ca2:
+    I87CA76A1: 799fd4c5d2cb4d48adb14db698e8809f
+    I44ACBA16: efb133306499408ca75f59de9ef9cfbb
+  091c0371e43f4d86a2f823cd89a6dc1f:
+    I87CA76A1: fd0b2d64b79d41bba60c1d6dbb6d6130
+    I44ACBA16: 4ae24385baf9408cbafa1e72fdab8f86
+  2bb1917d7bee44b4922a7db64db5685c:
+    I87CA76A1: 19bcef0966004ffcb6fc7a2c53caff80
+    I44ACBA16: 53eb9bb12b5844178ba0ac206815f61f
